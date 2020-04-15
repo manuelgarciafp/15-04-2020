@@ -1,0 +1,29 @@
+[33mcommit 282f103078f4ed1090d5c2e9e806f3326c4b25b0[m[33m ([m[1;36mHEAD -> [m[1;32mversion2[m[33m)[m
+Author: manuel <manuel@gmail.com>
+Date:   Wed Apr 15 11:10:43 2020 +0200
+
+    snapshot e
+
+[33mcommit 4db2aff3a8317f0ccd9f07dfb061b552ad3b6327[m[33m ([m[1;32mversion1[m[33m)[m
+Author: manuel <manuel@gmail.com>
+Date:   Wed Apr 15 11:09:40 2020 +0200
+
+    snapshot d
+
+[33mcommit 115fe1db225c18512617610342ab109dfd0f9a1d[m[33m ([m[1;32mmaster[m[33m)[m
+Author: manuel <manuel@gmail.com>
+Date:   Wed Apr 15 11:07:44 2020 +0200
+
+    snapshot c
+
+[33mcommit 808ca2db009f10b4f9236c8d22eff0219d42a695[m
+Author: manuel <manuel@gmail.com>
+Date:   Wed Apr 15 11:07:18 2020 +0200
+
+    snapshot b
+
+[33mcommit e04ebdce8f2ff260a2f869d8dd8e5ca10c7c42ef[m
+Author: manuel <manuel@gmail.com>
+Date:   Wed Apr 15 11:06:37 2020 +0200
+
+    snapshot a
